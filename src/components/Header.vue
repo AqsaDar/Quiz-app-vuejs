@@ -48,5 +48,6 @@ export default {
 .score-badge {
   font-size: 1rem;
   padding: 8px 14px;
+  color: #333344;
 }
 </style>
